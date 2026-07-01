@@ -1,0 +1,52 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ---- Environment / secrets ----
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# ---- Databases (local dev artifacts; real DB is PostgreSQL) ----
+*.db
+*.sqlite
+*.sqlite3
+
+# ---- Vector store (ChromaDB persisted data is generated at runtime) ----
+vector_store/*
+!vector_store/.gitkeep
+
+# ---- Test / coverage ----
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ---- IDE / editor ----
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log

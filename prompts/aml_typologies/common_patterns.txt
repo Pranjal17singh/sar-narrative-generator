@@ -1,0 +1,89 @@
+COMMON MONEY LAUNDERING TYPOLOGIES AND RED FLAGS
+
+1. STRUCTURING (SMURFING)
+Definition: Breaking up transactions to avoid Currency Transaction Report (CTR) requirements.
+Red Flags:
+- Multiple cash deposits just below $10,000
+- Deposits at multiple branches on same day
+- Multiple individuals making deposits to same account
+- Transactions just below reporting thresholds
+Narrative Language: "Multiple deposits structured below the $10,000 CTR threshold..."
+
+2. FUNNEL ACCOUNTS
+Definition: Accounts receiving deposits from multiple sources, then transferring to single destination.
+Red Flags:
+- Deposits from numerous unrelated parties
+- Quick transfers out after deposits
+- Little or no account balance maintained
+- Wire transfers to high-risk jurisdictions
+Narrative Language: "The account received funds from multiple apparently unrelated parties, which were then consolidated and transferred..."
+
+3. RAPID MOVEMENT OF FUNDS
+Definition: Quick movement of funds through accounts with minimal retention.
+Red Flags:
+- Large deposits immediately followed by withdrawals
+- Pass-through activity
+- No apparent business purpose
+- Minimal time between deposit and withdrawal
+Narrative Language: "Funds were moved through the account rapidly, typically within 24-48 hours of receipt..."
+
+4. ROUND DOLLAR TRANSACTIONS
+Definition: Unusual frequency of transactions in round amounts.
+Red Flags:
+- Multiple transactions in exact round amounts ($5,000, $10,000, etc.)
+- Pattern inconsistent with normal business activity
+- Combined with other suspicious indicators
+Narrative Language: "A pattern of round-dollar transactions was observed, including..."
+
+5. SHELL COMPANY ACTIVITY
+Definition: Use of shell companies to obscure ownership and source of funds.
+Red Flags:
+- Transactions with companies in secrecy jurisdictions
+- No apparent legitimate business purpose
+- Minimal online presence or business footprint
+- Complex ownership structures
+Narrative Language: "Transactions were conducted with entities that appear to lack legitimate business purpose..."
+
+6. TRADE-BASED MONEY LAUNDERING
+Definition: Manipulation of trade transactions to transfer value.
+Red Flags:
+- Over/under invoicing
+- Multiple invoicing for same goods
+- Phantom shipments
+- Misrepresentation of goods/services
+Narrative Language: "Transaction patterns suggest possible trade-based value transfer..."
+
+7. LAYERING THROUGH MULTIPLE ACCOUNTS
+Definition: Moving funds through multiple accounts to obscure the trail.
+Red Flags:
+- Transfers between multiple accounts
+- Use of intermediary accounts
+- Cross-border wire activity
+- Complex transaction chains
+Narrative Language: "Funds were transferred through multiple accounts in apparent layering activity..."
+
+8. HIGH-RISK JURISDICTION ACTIVITY
+Definition: Transactions with countries known for weak AML controls.
+Red Flags:
+- Wire transfers to/from high-risk countries
+- Inconsistent with customer's stated business
+- No apparent economic purpose
+- Offshore financial centers
+Narrative Language: "Significant transaction activity was observed with high-risk jurisdictions including..."
+
+9. CASH-INTENSIVE BUSINESS ANOMALIES
+Definition: Cash patterns inconsistent with stated business type.
+Red Flags:
+- Cash deposits inconsistent with business type
+- Increasing cash activity without business growth
+- Geographic inconsistencies
+Narrative Language: "Cash transaction patterns were inconsistent with the customer's stated business..."
+
+10. VELOCITY CHANGES
+Definition: Sudden changes in transaction patterns or volumes.
+Red Flags:
+- Dramatic increase in transaction volume
+- Change in transaction types
+- New counterparties
+- Activity inconsistent with history
+Narrative Language: "A significant change in account activity was observed, with transaction volume increasing..."

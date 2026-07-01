@@ -1,0 +1,31 @@
+transaction_id,date,amount,currency,transaction_type,counterparty,counterparty_account,country,description
+TXN001,2024-01-05 09:15:00,9500.00,USD,credit,ABC Corp,ACC-12345,US,Wire transfer - invoice payment
+TXN002,2024-01-05 09:45:00,9400.00,USD,credit,XYZ LLC,ACC-23456,US,Wire transfer - consulting fee
+TXN003,2024-01-05 10:30:00,9300.00,USD,credit,Global Trading Inc,ACC-34567,UK,International wire - goods
+TXN004,2024-01-05 11:00:00,9200.00,USD,credit,Smith Enterprises,ACC-45678,US,ACH deposit - services
+TXN005,2024-01-05 14:00:00,35000.00,USD,debit,Offshore Holdings Ltd,ACC-CAYMAN-001,KY,Wire transfer - investment
+TXN006,2024-01-08 08:30:00,9100.00,USD,credit,Johnson & Co,ACC-56789,US,Check deposit
+TXN007,2024-01-08 09:00:00,9000.00,USD,credit,Tech Solutions,ACC-67890,US,Wire transfer - software
+TXN008,2024-01-08 10:15:00,8900.00,USD,credit,Retail Partners,ACC-78901,US,ACH - merchandise
+TXN009,2024-01-08 15:30:00,25000.00,USD,debit,Caribbean Ventures,ACC-BVI-002,VG,Wire transfer - investment
+TXN010,2024-01-10 09:00:00,10000.00,USD,credit,Consulting Group,ACC-89012,US,Round amount deposit
+TXN011,2024-01-10 09:30:00,20000.00,USD,credit,Investment Fund A,ACC-90123,US,Round amount deposit
+TXN012,2024-01-10 10:00:00,15000.00,USD,credit,Investment Fund B,ACC-01234,CH,International wire - Switzerland
+TXN013,2024-01-10 14:00:00,45000.00,USD,debit,Panama Corp,ACC-PAN-003,PA,Wire transfer - business expense
+TXN014,2024-01-12 08:00:00,9850.00,USD,credit,Marketing LLC,ACC-11111,US,ACH deposit
+TXN015,2024-01-12 08:30:00,9750.00,USD,credit,Design Studio,ACC-22222,US,Wire transfer
+TXN016,2024-01-12 09:00:00,9650.00,USD,credit,Media Corp,ACC-33333,US,ACH deposit
+TXN017,2024-01-12 09:30:00,9550.00,USD,credit,Ad Agency,ACC-44444,US,Wire transfer
+TXN018,2024-01-13 06:00:00,5000.00,USD,credit,Weekend Trader,ACC-55555,US,Off-hours transaction
+TXN019,2024-01-14 22:00:00,7500.00,USD,credit,Night Operations,ACC-66666,HK,Late night international wire
+TXN020,2024-01-15 09:00:00,50000.00,USD,debit,Shell Company Inc,ACC-SEY-004,SC,Large wire - Seychelles
+TXN021,2024-01-15 14:00:00,9999.00,USD,credit,Fast Cash Ltd,ACC-77777,US,Just under threshold
+TXN022,2024-01-15 14:30:00,9998.00,USD,credit,Quick Money Inc,ACC-88888,US,Just under threshold
+TXN023,2024-01-15 15:00:00,9997.00,USD,credit,Rapid Funds Corp,ACC-99999,US,Just under threshold
+TXN024,2024-01-18 10:00:00,8500.00,USD,credit,Normal Business,ACC-NORM-1,US,Regular business payment
+TXN025,2024-01-18 11:00:00,3200.00,USD,debit,Supplier A,ACC-SUP-1,US,Vendor payment
+TXN026,2024-01-20 09:00:00,100000.00,USD,credit,Major Client Inc,ACC-MAJOR-1,US,Large contract payment
+TXN027,2024-01-20 09:05:00,99000.00,USD,debit,Overseas Investment,ACC-DUBAI-001,AE,Rapid outbound wire - UAE
+TXN028,2024-01-22 08:00:00,5500.00,USD,credit,Regular Customer,ACC-REG-1,US,Monthly payment
+TXN029,2024-01-25 10:00:00,6200.00,USD,credit,Service Provider,ACC-SVC-1,CA,Canadian transfer
+TXN030,2024-01-28 14:00:00,4800.00,USD,debit,Equipment Supplier,ACC-EQP-1,US,Equipment purchase

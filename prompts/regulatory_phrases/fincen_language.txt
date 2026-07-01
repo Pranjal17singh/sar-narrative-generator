@@ -1,0 +1,77 @@
+REGULATORY LANGUAGE FOR SAR NARRATIVES
+
+OPENING STATEMENTS:
+- "This SAR is being filed to report suspicious activity involving..."
+- "The financial institution is filing this report concerning..."
+- "Suspicious transactions were identified in connection with..."
+- "This report documents activity that appears to involve..."
+
+DESCRIBING PATTERNS:
+- "A pattern of transactions consistent with [typology] was observed..."
+- "The transaction activity suggests possible..."
+- "Multiple indicators of [pattern type] were identified..."
+- "The account demonstrated characteristics commonly associated with..."
+
+TRANSACTION DESCRIPTIONS:
+- "During the review period, the account received [X] deposits totaling $[amount]..."
+- "Wire transfers totaling $[amount] were sent to [jurisdiction]..."
+- "Cash deposits were made in amounts just below the CTR threshold..."
+- "Funds were moved through the account within [timeframe] of receipt..."
+
+RED FLAG LANGUAGE:
+- "The following red flags were identified during the review..."
+- "This activity is inconsistent with the customer's stated business purpose..."
+- "The transaction pattern lacks apparent economic purpose..."
+- "No legitimate business rationale was identified for..."
+
+COUNTERPARTY DESCRIPTIONS:
+- "Transactions were conducted with [X] unique counterparties..."
+- "Wire transfers were sent to entities in [jurisdictions]..."
+- "The account received funds from parties that appear unrelated to stated business..."
+
+GEOGRAPHIC REFERENCES:
+- "Activity involving high-risk jurisdictions including..."
+- "Cross-border transactions with [countries]..."
+- "Wire activity to/from offshore financial centers..."
+
+TEMPORAL REFERENCES:
+- "During the period from [date] through [date]..."
+- "Over the [X]-month review period..."
+- "Activity occurring between [dates] included..."
+
+QUANTITATIVE LANGUAGE:
+- "Transactions totaling approximately $[amount]..."
+- "A total of [X] transactions were identified..."
+- "[X]% of transactions involved..."
+- "Average transaction size of $[amount]..."
+
+CONCLUDING LANGUAGE:
+- "Based on the above activity, this SAR is being filed..."
+- "The institution has taken the following actions..."
+- "Continued monitoring of the account has been implemented..."
+- "The relationship has been [enhanced monitoring/restricted/terminated]..."
+
+DISCLAIMER LANGUAGE:
+- "This report is filed pursuant to 31 U.S.C. 5318(g)..."
+- "The filing of this SAR is confidential..."
+- "No determination has been made regarding potential criminal activity..."
+
+STRUCTURING SPECIFIC:
+- "Transactions appear structured to avoid CTR filing requirements..."
+- "Multiple deposits below the $10,000 reporting threshold..."
+- "Activity suggests an intent to evade reporting requirements..."
+
+FUNNEL ACTIVITY SPECIFIC:
+- "Funds from multiple sources were aggregated and transferred..."
+- "The account served as a conduit for funds from various parties..."
+- "Consolidation of funds followed by rapid outbound transfers..."
+
+CROSS-BORDER SPECIFIC:
+- "International wire activity inconsistent with stated business..."
+- "Transfers to jurisdictions known for weak AML controls..."
+- "Cross-border activity representing [X]% of total transactions..."
+
+VELOCITY SPECIFIC:
+- "Transaction volume increased significantly from baseline activity..."
+- "A [X]-fold increase in activity was observed..."
+- "Sudden spike in transactions compared to historical patterns..."

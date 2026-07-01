@@ -1,0 +1,56 @@
+SAR NARRATIVE TEMPLATE
+
+A Suspicious Activity Report (SAR) narrative should be clear, concise, and provide sufficient detail for law enforcement to understand the suspicious activity without needing additional documentation.
+
+STRUCTURE:
+
+1. INTRODUCTION
+Begin with identifying information about the subject and the reason for filing. State the type of suspicious activity and the general time period.
+
+Example opening:
+"This Suspicious Activity Report is being filed concerning [SUBJECT NAME], account holder of [ACCOUNT TYPE] account number [ACCOUNT NUMBER], regarding suspicious transactions totaling approximately $[AMOUNT] between [START DATE] and [END DATE]."
+
+2. SUBJECT BACKGROUND
+Provide relevant background about the subject, including:
+- Account opening date and stated purpose
+- Expected account activity
+- Previous suspicious activity (if any)
+- Any relevant KYC information that contrasts with observed activity
+
+3. SUSPICIOUS ACTIVITY DESCRIPTION
+Describe the suspicious activity in chronological order:
+- Specific dates, amounts, and transaction types
+- Counterparties involved (if known)
+- Geographic locations relevant to the activity
+- Any patterns observed (structuring, rapid movement, etc.)
+
+Use objective language. State what was observed, not conclusions about intent.
+
+4. RED FLAGS AND INDICATORS
+List the specific red flags that triggered the SAR:
+- Unusual transaction patterns
+- Inconsistencies with stated business purpose
+- Known money laundering typologies
+- Geographic risk factors
+
+5. SUPPORTING INFORMATION
+Include any additional relevant information:
+- Customer explanations (if any)
+- Results of enhanced due diligence
+- Related accounts or parties
+- Previous SARs filed (reference numbers if available)
+
+6. CONCLUSION
+Summarize the suspicious activity and note any actions taken by the institution, such as:
+- Account restrictions
+- Relationship termination
+- Ongoing monitoring
+
+WRITING GUIDELINES:
+
+- Use clear, professional language
+- Be specific with amounts, dates, and parties
+- Avoid legal conclusions (e.g., "money laundering")
+- State facts and observations
+- Include all relevant details in the narrative itself
+- Reference supporting documentation where appropriate

@@ -1,0 +1,28 @@
+{
+  "customer_id": "CUST-2024-001",
+  "name": "Acme International Trading LLC",
+  "account_number": "ACC-9876543210",
+  "account_type": "Business Checking",
+  "date_opened": "2023-06-15",
+  "occupation": "Import/Export Trading",
+  "address": "123 Commerce Street, Suite 400, Miami, FL 33131",
+  "country": "US",
+  "risk_rating": "High",
+  "pep_status": false,
+  "sanctions_match": false,
+  "beneficial_owners": [
+    {
+      "name": "John Smith",
+      "ownership_percentage": 51,
+      "country": "US"
+    },
+    {
+      "name": "Maria Garcia",
+      "ownership_percentage": 49,
+      "country": "MX"
+    }
+  ],
+  "business_description": "International trading company specializing in electronics and consumer goods import/export with partners in Asia, Europe, and Latin America.",
+  "expected_monthly_volume": 150000,
+  "account_purpose": "Operating account for international trade transactions"
+}
